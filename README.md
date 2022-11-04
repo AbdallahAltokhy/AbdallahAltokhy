@@ -1,10 +1,7 @@
 <h1 align="left">Hi 👋, I'm Abdallah</h1>
 <h3 align="left">A passionate Full stack developer </h3>
 
-Full Stack Software Engineer experienced with JavaScript environment with a focus on React ,Node, Express, Koa, comfortable working with both relational and non relational database  " MySQL , MongoDB ,PostgresSQL", (, Sequelize  , Mongoose ORM).
-
- Design and implement frontend interfaces and backend services to assemble web applications based on user stories.
-Highly motivated self-taught developer who followed his passion with a lot of hard work and studying. After four years of experience in HR, I decided to take a new challenge and study web development where I developed a strong interest and passion.  
+Full Stack developer experienced in building web applications both on the frontend and backend. With a focus on the JavaScript environment, I have great experience building frontend interfaces with Reactjs and its ecosystem (Redux, routers, SSR, etc) and backend services using Nodejs & ExpressJs which includes (building APIs, implementing business logic, authorization & authentication, security, etc) alongside with Working with both relational and non-relational databases.
 
 
 <h3 align="left">Languages and Tools:</h3>
