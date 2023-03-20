@@ -1,7 +1,11 @@
 <h1 align="left">Hi 👋, I'm Abdallah</h1>
 <h3 align="left">A passionate Full stack developer </h3>
 
-Full Stack developer experienced in building web applications, With a focus on the JavaScript environment, I have great experience building frontend interfaces with Reactjs and its ecosystem (Redux, routers, SSR, etc) and backend services using Nodejs & ExpressJs which includes (building APIs, implementing business logic, authorization & authentication, security, etc) alongside with Working with both relational and non-relational databases.
+Full Stack developer with more than 4 years of hands-on experience in building web applications. With a
+focus on the JavaScript environment, I have great experience building frontend interfaces with Reactjs and
+its ecosystem (Redux, routers, SSR, etc) and backend services using Nodejs which includes (building APIs,
+implementing business logic, authorization & authentication, security, etc) alongside Working with both
+relational and non-relational databases
 
 
 <h3 align="left">Languages and Tools:</h3>
